@@ -1,7 +1,7 @@
-Data Science
-============
+Data Science Experiments
+========================
 
-My personal tests with data science
+My personal tests with data science. They neither do anything use- nor harmful.
 
 Copyright (c) 2019 by Nils Magnus (magnus@linuxtag.org)
 
